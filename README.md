@@ -193,13 +193,16 @@ Location: Darwin, 7th Floor
 ### Ben Yarnall 
 **Leading on funding applications and stimulating your future research opportunities**
 Location: Darwin, 7th Floor
-![05c-BY](https://hackmd.io/_uploads/SJdnj0DTC.png)
+![05c-BY](https://hackmd.io/_uploads/rJucyNOp0.png)
+
+
 
 
 ### Venexia Walker
 **Producing analysis-ready datasets in TRE/SDE setting**
 Location: Lacks2, 7th Floor
-![05d-VW](https://hackmd.io/_uploads/Hk26oRvaR.png)
+![05d-VW](https://hackmd.io/_uploads/Sy9Ky4O6R.png)
+
 
 ### Ruth Milne
 **Telling your story: Communicating health data research**
