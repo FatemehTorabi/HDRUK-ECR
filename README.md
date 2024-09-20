@@ -59,8 +59,21 @@ or scan this QR code
 Research can be both thrilling and daunting, especially at the early stages of your career. Our goal with this forum is to connect you with peers, mentors, and resources that will help you advance your work and broaden your horizons. Together, we will explore new perspectives, discuss cutting-edge developments, and build networks that will last long beyond this event.
 
 ## Talk Highlights
-* Do not give up
+**Do not give up**
+* Reach out for any advice 
+* Fate, luck, sheer grit and determination
+* No two career pathways are the same, and it's important to do what you enjoy so it doesn't feel like hard work all the time, and not worry that things are not necesssarily following the same path as other people.
+* Experience through placements and keep self reflection and re-evaluation of path forward. 
+* PhD is hard work/life balance but you will survive it as we did
+* Having support network, suround yourself with great people
 
+**Top tips**:
+* Find your focus and soround yourself with supportive people
+* Fail and allow yourself to fail - it does make you stronger
+* Don't give up
+* Be nice to people : you never know who you are gonna meet on the way up or on the way down
+* Be different : do what you want to do and find a way to do it
+* 
 ## Vote for the questions
 go to: www.menti.com
 Ender the code: 4442 2957
@@ -84,6 +97,9 @@ Please use this space to add your own questions
 * Be strategic
 * Right place, right time*
 * Luck= awareness of opportunities
+* Consider different type of research dissemination such as the conversation 
+* Keep a list of your activities in hand
+* Mentors are so important
 
 
 ## Honghan Wu
@@ -93,6 +109,11 @@ Please use this space to add your own questions
 ### Talk Highlights
 * From gamer to professor
 * Non-traditional career route to academia; advantages & disadvantages?
+* Keep yourself interested.
+* Trust yourself and get support when necessary.
+* Find mentors
+* Seek suggestions
+* Growing your network 
 
 ## Kluivert Boakye Duah 
 ![02d-KBD](https://hackmd.io/_uploads/HkSp96wpR.png)
@@ -101,6 +122,11 @@ Please use this space to add your own questions
 ### Talk Highlights
 * Importance of mentorship
 * Finding mentors among busy senior academics can be challenging; how best to overcome that?
+* Work life balance in more developed stage of career
+* Academia or Research, which one is the right way?
+* Talking opportunities, being visulant for availabel opportunities + luck
+* There are examplary candidates in different networks
+* Bring the change 
 
 
 ## Vote for the questions
@@ -131,19 +157,40 @@ Please use this space to add your own questions
 
 
 ### Talk Highlights
-* add
+* Generative AI models
+* Learning data distribution and using the generative model in different conditions
+* Clustring high dimentional data: lots of different assets presented in the dataset - how to go about it where there are multiple and diverse characteristics on various facets?
+* Exploratory data analysis (EDA) will feed into your approach onto this
+
+Steps of EDA
+* Visualising each facet in the data 
+* Finding homogenous examples vs hetrogeneous facets
+* No relationship or inferencial activities happening at this stage
+* Hierachical 
+* Looking at existing Units in data 
+* Unit is an approximation of a data piece
+* Units use average of 2 coefficients to approximate but there is an alternative approach to this...hierachical VAEs 
+* Fusion models current state-of-the-art
 
 ## Emma Whitfield
 ![03b-EW](https://hackmd.io/_uploads/BkYjnaD6A.png)
 
 ### Talk Highlights
-* add
+* Diagnosis is a challenging task compounded by various factors
+* Compare frequency of a set of characteristics based on their occurance during the process of diagnosis
+* Why emergency presentation matters: there is a well-established corrolation between ED presence for different types of cancer
+* It is important to depict similaries in ED presence for cancer vs other disease
 
 ## Haoting Zhang
 ![03c-HZ](https://hackmd.io/_uploads/rksTn6vpC.png)
 
 ### Talk Highlights
-* add
+* drug combination synergies
+* AZ public dataset including more than 11000 drug combinations
+* A combined therapy is more effective than single therapy
+* There is no gold standard for synergy score and it is framework dependent 
+* Ideal drug: maximum efficacy, minimum potency so a small dosage will provide required therapeutic target
+*   
 
 ## Vote for the questions
 go to: www.menti.com
@@ -156,6 +203,18 @@ or scan this QR code
 ## Submit your own questions
 Please use this space to add your own questions
 
+For Fabian:
+* How much uptake (in industry & academia) is there of the state-of-the-art fusion models you described?
+* 
+
+For Emma:
+* How can the diagnostic process algorithms be translated across different primary care systems/countries?
+* Is there any risk of time-related biases in these analyses? 
+* How distinct is the ED presence for cancer vs other disease?
+
+For Haoting:
+* Has these findings made their way to clinical Trials or drugs?
+* 
 
 # [12:15-13:15] Lunch break 
 
