@@ -7,9 +7,11 @@
 
 Thank you for being part of this vibrant community. Let’s make the most of this opportunity to learn, share, and grow together!
 
-We are delighted to welcome you to the Early Career Research Forum! As your co-hosts, it is an honor to bring together such a dynamic and passionate group of emerging scholars, innovators, and professionals from diverse fields.
+We are delighted to welcome you to the Early Career Research Forum! As your co-hosts, it is an honor to bring together such a dynamic and passionate group of emerging researchers and technologists from diverse fields in health data science.
 
-This forum is designed to foster collaboration, exchange fresh ideas, and provide a supportive space to navigate the challenges and opportunities unique to early-stage researchers. Whether you're here to present your work, engage with fellow attendees, or learn from the insightful sessions, we hope this platform will inspire and empower you in your journey ahead.
+This forum is designed to foster collaboration, exchange fresh ideas, and provide a supportive space to navigate the challenges and opportunities unique to early-stage researchers. Whether you're here to present your work, engage with fellow attendees, or learn from the insightful sessions.
+
+After the forum today, please join us in building a community of early career researchers, so we can support one another and take the objectives of this platform forward to inspire and empower you into the future.
 
 
 Warm regards,
@@ -24,10 +26,24 @@ Share access to this notebook with your peers
 To access the full agenda use [this link](https://www.hdruk.ac.uk/events/inaugural-hdr-uk-early-career-researcher-forum/)
 
 ## Day in a glimpse
-![AgendaBrief](https://hackmd.io/_uploads/r1C0glwaC.png)
+![AgendaBrief](https://hackmd.io/_uploads/HkD4j456R.png)
+
+# Industry partners 
+![IndustryP](https://hackmd.io/_uploads/S1TEvH9a0.png)
+
+Make sure to visit the exhibitions presented to you by our industry partners
+* Genomic England
+* HDR UK PPIE
+* GSK
+* AstraZeneca
+* AWS
+* Alumni Network
+
+you can locate them usign the below floor map
+![ECR Floor Plan - 20 Sept (5) (1)](https://hackmd.io/_uploads/B11zhV56C.png)
 
 
-## Vote for questions via mentimeter polls
+## Vote for questions via mentimeter polls or submit your questions in note sections provided under each talk
 
 go to: www.menti.com
 Ender the code: 4442 2957
@@ -76,6 +92,7 @@ Please use this space to add your own questions
 
 ### Talk Highlights
 * From gamer to professor
+* Non-traditional career route to academia; advantages & disadvantages?
 
 ## Kluivert Boakye Duah 
 ![02d-KBD](https://hackmd.io/_uploads/HkSp96wpR.png)
@@ -83,6 +100,7 @@ Please use this space to add your own questions
 
 ### Talk Highlights
 * Importance of mentorship
+* Finding mentors among busy senior academics can be challenging; how best to overcome that?
 
 
 ## Vote for the questions
@@ -96,13 +114,21 @@ or scan this QR code
 ## Submit your own questions
 Please use this space to add your own questions
 
+### Suggested questions:
+* What advice specifically on preparing for and securing a leadership role can you give?
+* Ronna mentioned an up-to-date CV as a good way to progress, are there any resources you use to construct and update your CV that others could make use of?
+* On trusting yourself, how can you decide whether to accept or reject a piece of advice from a trusted mentor?
+* What is a practical first step for finding a mentor?
+* What do you think of "reverse" mentoring schemes where a more senior professional is the mentee? 
+
 # [11:05-11:15] Comfort Break 
 
 #  [11:15-12:15] Doctoral Science Showcase
 ![03a-Welcome Doctoral](https://hackmd.io/_uploads/ryQBRTPp0.png)
 
 ## Fabian Falck
-![03a-FF](https://hackmd.io/_uploads/SJ3X2TPTC.png)
+![03a-FF](https://hackmd.io/_uploads/ByM99EqaR.png)
+
 
 ### Talk Highlights
 * add
@@ -184,6 +210,11 @@ Please use this space to add your own questions
 Location: Main space, 6th floor
 ![05b.MF](https://hackmd.io/_uploads/HJMzD0PpC.png)
 
+#### Notes from workshop
+Please use this space to add notes from this workshop
+
+
+
 ### Emily Ball
 **Leading on funding applications and stimulating your future research opportunities** 
 Location: Darwin, 7th Floor
@@ -195,6 +226,8 @@ Location: Darwin, 7th Floor
 Location: Darwin, 7th Floor
 ![05c-BY](https://hackmd.io/_uploads/rJucyNOp0.png)
 
+#### Notes from workshop
+Please use this space to add notes from this workshop
 
 
 
@@ -203,6 +236,8 @@ Location: Darwin, 7th Floor
 Location: Lacks2, 7th Floor
 ![05d-VW](https://hackmd.io/_uploads/Sy9Ky4O6R.png)
 
+#### Notes from workshop
+Please use this space to add notes from this workshop
 
 ### Ruth Milne
 **Telling your story: Communicating health data research**
@@ -213,6 +248,10 @@ Location: Franklin, 7th Floor
 **Telling your story: Communicating health data research**
 Location: Franklin, 7th Floor
 ![05e-AW](https://hackmd.io/_uploads/ryfz3RP6R.png)
+
+#### Notes from workshop
+Please use this space to add notes from this workshop
+
 
 
 # [14:45-16:00] Poster session
@@ -270,25 +309,37 @@ or scan this QR code
 
 ## Submit your own questions
 Please use this space to add your own questions
+
+
 # [17:20-17:30] Closing Remarks
-![09a](https://hackmd.io/_uploads/r1HJWk_T0.png)
+![closing](https://hackmd.io/_uploads/S1e26yKp0.png)
 
-## Chris Yau
-![09a-CY](https://hackmd.io/_uploads/B131ZJOpA.png)
+**Get ready for poster prizes and group photo!**
 
-## Vote for the questions
-go to: www.menti.com
-Ender the code: 4442 2957
-
-or scan this QR code
-
-![Menti-QR](https://hackmd.io/_uploads/B1KFHTD6R.png)
-
-## Submit your own questions
-Please use this space to add your own questions
 
 ![010-Drinks](https://hackmd.io/_uploads/SkfZWJuT0.png)
 
 
 # Keep in touch
-## slack link
+
+* MailBox: learn@hdruk.ac.uk
+* Slack group: https://healthdataresearchuk.slack.com/archives/C07MGSM6VU7
+
+# Contribute
+Your testimony today will help shape our upcoming blog post, capturing the powerful moments and insights shared during this event. Your voice matters—let's make a meaningful impact together!
+
+Please provide your contact details with your statement.
+
+
+
+
+
+
+
+
+
+
+
+
+# End of the document
+
