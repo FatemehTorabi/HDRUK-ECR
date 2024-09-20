@@ -1,5 +1,6 @@
 
 
+
 # HDR UK Early Career Researcher Forum
 
 ![co-hosts Welcome](https://hackmd.io/_uploads/HkS57gP60.png)
@@ -214,49 +215,60 @@ For Emma:
 
 For Haoting:
 * Has these findings made their way to clinical Trials or drugs?
-* 
+* What are the limitations of using Bayesian distributions versus point estimates ?
+
 
 # [12:15-13:15] Lunch break 
 
 # [13:15-13:45] Programme Fellows
 ![04a-Latest Fellows](https://hackmd.io/_uploads/HJ4HfCw6R.png)
 
-## Ammal Rammah
+## Amal Rammah
 ![04b-AR](https://hackmd.io/_uploads/rJvHE0PaA.png)
 
 
 ### Talk Highlights
-* add notes
+* Birth cohort from 2006 onwards
+* within TRE and open to collaboration
+* Question: any effort or possibility focused on reducing the cost of data access? the PI of project has this in mind
 
 ## Cosmika Goswami
 ![04c-CG](https://hackmd.io/_uploads/BJrw4Cv6C.png)
 
 
 ### Talk Highlights
-* add notes
+* PhD in mathematical Statistics
+* Current work focused on medicines in Acute and chronic care programme
+* Prevelance of high dose antipsychotic medications
+* started July 2023-Data of all prescribed items from Scotland
 
 ## James Mitchell-White
 
 ![04d-JMW](https://hackmd.io/_uploads/rkRJqAw6R.png)
 
 
-
 ### Talk Highlights
-* add notes
+* LLettuce: mapping the common Data Model easier
+* OMOP CDM
+* Process and build queries based on standardised concepts 
 
 ## Naomi Launders
 ![04e-NL](https://hackmd.io/_uploads/SJ8i40DTA.png)
 
 
 ### Talk Highlights
-* add notes
+* Health enequalities in cardiovascular disease in people with mental health problem, CVD and cancer
+* Accounting for deprivation 
+* Primary care + Cohort/Census data for CVD and cancer screening 
+* Multi-state model for disease progression
 
 ## Thomas Starkey
 ![04f-TS](https://hackmd.io/_uploads/S1GyHRvpA.png)
 
-
 ### Talk Highlights
-* add notes
+* DOAC use in patients
+* Evaluation of risk of bleeding
+* CHADSVASC or other CVD risk schemes and how are you going to evaluate them?
 
 # [13:45-14:45] Workshops
 ![05a-Workshop](https://hackmd.io/_uploads/SJTvIADp0.png)
@@ -271,6 +283,17 @@ Location: Main space, 6th floor
 
 #### Notes from workshop
 Please use this space to add notes from this workshop
+
+
+AfDSP: alliance for data science professionals.
+
+AI Skills for Business Competency Framework -> section for AI professionals.
+
+AI upskill government fund in progress.
+
+
+
+
 
 
 
@@ -294,6 +317,17 @@ Please use this space to add notes from this workshop
 **Producing analysis-ready datasets in TRE/SDE setting**
 Location: Lacks2, 7th Floor
 ![05d-VW](https://hackmd.io/_uploads/Sy9Ky4O6R.png)
+
+Stages of making an analysis ready data asset: 
+
+* Create a spine, recommended approach would be to take all those who are registered in a primary care in England - in establishing spine make sure there is not an overlap with the study cohort i.e. for studying patients with covid-19 if the vaccination data is a mandatory element on defining the spine the population might be biased by those who are not presented in vaccine dataset due to them being unvaccinated. 
+* Make an event list and decide what to do with recurrent events
+* Be detailed about range of covariates, exposure and outcome variables in the study protocols 
+* Careful consideration of variable names: you can encode 
+* Agree on naming conventions 
+* Data quality checks and quality assurance on the curated table: people with a record post date of death, born on future dates etc. 
+* Sample size is less of a limit due to huge pool of national records
+
 
 #### Notes from workshop
 Please use this space to add notes from this workshop
